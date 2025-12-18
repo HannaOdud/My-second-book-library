@@ -1,0 +1,36 @@
+header{
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgb(151, 221, 221);
+    padding: 30px 0;
+    border-radius: 2px;
+    border: 1px solid;
+}
+h1,p{
+    margin: 0;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width:300px;
+    margin:10px auto;
+}
+button{
+    background-color: rgb(151, 221, 221);
+    border-radius: 2px;
+    border: 1px solid;
+}
+table{
+    width:100%;
+}
+thead{
+    background-color:  rgb(151, 221, 221);
+    text-align: left;
+}
+th{
+    padding: 10px 5px;
+    border-radius: 2px;
+    border: 1px solid;
+}
